@@ -1,0 +1,21 @@
+ALGORITHM INSERTION SORT
+VAR
+i;
+    INTEGER: :=-1;
+BEGIN
+    for(i=0;i<arr.length-1;i++){
+
+            if(arr[i]>val)
+                break;
+
+                OR
+            var i;
+    for(i = rightIndex ; i > 0 && array[i] > value; i--) {
+        println(i);
+        array[i + 1] = array[i];   
+    }
+    array[i] = value;
+END 
+
+        
+  
